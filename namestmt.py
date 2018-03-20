@@ -2,7 +2,7 @@
 #
 #test if name is good.
 #programmed by Bodhi Wang
-#bodwang@deloitte.com.cn
+#jyxz5@qq.com
 #2017.8.4
 '''
 formart of result, for example:
@@ -242,3 +242,4 @@ class NamEstmt:
       self.result.append(check_lists)
 
       return self.result
+ 
