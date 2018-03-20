@@ -3,7 +3,7 @@
 #
 #test if name is good.
 #programmed by Bodhi Wang
-#bodwang@deloitte.com.cn
+#jyxz5@qq.com
 #2017.8.7
 from pprint import pprint
 import namestmt
